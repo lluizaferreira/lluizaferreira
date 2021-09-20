@@ -1,4 +1,4 @@
-### Oii, eu sou a Luiza
+### Oii, eu sou a Luiza, estou cursando 1ᵒ Semestre de Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/lluizaferreira">
