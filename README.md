@@ -1,4 +1,4 @@
-### Oii, eu sou a Luiza, estou cursando 1ᵒ Semestre de Análise e Desenvolvimento de Sistemas.
+### Oii, eu sou a Luiza, aluna do 1ᵒ Semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - FATEC Prof. Jessen Vidal
 
 <div>
   <a href="https://github.com/lluizaferreira">
